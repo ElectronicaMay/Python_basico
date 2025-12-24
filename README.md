@@ -1,19 +1,19 @@
-# 🐍 Python Básico — Fundamentos para Analítica y Automatización
+#  Python Básico — Fundamentos para Analítica y Automatización
 
-Este módulo corresponde a la fase de aprendizaje de **Python desde cero**, orientado a aplicaciones reales en:
+Este módulo corresponde a **Python desde cero**, orientado a:
 
 - Analítica de datos
 - Automatización de procesos
 - Mantenimiento industrial
 - Ingeniería y proyectos técnicos
 
-Incluye ejercicios, scripts prácticos y manejo de archivos para crear una base sólida antes de avanzar a analítica avanzada.
+Incluye ejercicios, scripts prácticos y manejo de archivos para crear una base sólida.
 
 ---
 
-## 🎯 Objetivos del módulo
+##  Objetivos del módulo
 
-- Comprender la sintaxis y estructura básica de Python
+- Sintaxis y estructura básica de Python
 - Aplicar programación en tareas reales de ingeniería
 - Manipular archivos CSV y Excel
 - Crear scripts reutilizables para automatización
@@ -26,7 +26,7 @@ Incluye ejercicios, scripts prácticos y manejo de archivos para crear una base 
 
 ---
 
-## 🧠 Temas trabajados
+##  Temas trabajados
 
 - Variables y tipos de datos
 - Estructuras de control
@@ -38,7 +38,7 @@ Incluye ejercicios, scripts prácticos y manejo de archivos para crear una base 
 
 ---
 
-## 🏗 Casos de uso aplicados
+##  Casos de uso aplicados
 
 ✔ Gestión de archivos para mantenimiento  
 ✔ Generación automática de reportes base  
@@ -47,9 +47,7 @@ Incluye ejercicios, scripts prácticos y manejo de archivos para crear una base 
 
 ---
 
-## 🚀 Próximos pasos
-
-Este módulo conecta con:
+## Este módulo conecta con:
 
 ➡ `Datos_90_dia`  
 ➡ Modelos de pronóstico (Croston, ARIMA, MAPE)  
@@ -61,3 +59,4 @@ Este módulo conecta con:
 
 **Dudley May**  
 Ingeniero electrónico — Mantenimiento industrial y analítica
+
